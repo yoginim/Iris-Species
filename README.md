@@ -16,6 +16,6 @@ The columns in this dataset are:
 - Naive Bayes model
 - K-mean Clutering 
 
-## Python libraries used : Scikit-learn, matplotlib, seaborn
+#### Python libraries used : Scikit-learn, matplotlib, seaborn
 
-## Dataset link: https://www.kaggle.com/uciml/iris
+#### Dataset link: https://www.kaggle.com/uciml/iris
